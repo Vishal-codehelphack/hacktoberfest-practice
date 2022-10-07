@@ -53,17 +53,31 @@
       "twitter": "Shashank01_26",
       "linkedin": "Shashank Kumar Srivastava"
     },
+    
+
       "name": "Praneeth Shetty",
-      "avatarUrl": "https://avatars.githubusercontent.com/gaimtron-10",
+
+      "avatarUrl": "https://avatars.githubusercontent.com/ganimtron-10",
+
       "github": "ganimtron-10",
+
       "twitter": "ganimtron10",
+
       "linkedin": "ganimtron10"
+
     },
     {
       "name": "Rishabh Anand",
       "avatarUrl": "https://avatars.githubusercontent.com/rishabhanand181",
       "github": "rishabhanand181",
       "linkedin": "rishabhanand181"
-    }
+    },
+     {
+      "name": "Vishal Vishwakarma",
+      "avatarUrl": "https://avatars.githubusercontent.com/Vishal-codehelphack",
+      "github": "Vishal-Codehelphack",
+ 
+      "linkedin": "Vishal Vishwakarma"
+    },
   ]
 }
