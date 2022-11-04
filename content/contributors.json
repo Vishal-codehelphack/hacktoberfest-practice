@@ -61,12 +61,6 @@
       "twitter": "ganimtron10",
       "linkedin": "ganimtron10"
     },
-     {
-      "name": "Vishal Vishwakarma",
-      "avatarUrl": "https://avatars.githubusercontent.com/Vishal4real",
-      "github": "Vishal4real",
-      "linkedin": "Vishal Vishwakarma"
-    },
     {
       "name": "Rishabh Anand",
       "avatarUrl": "https://avatars.githubusercontent.com/rishabhanand181",
@@ -102,6 +96,12 @@
       "avatarUrl": "https://avatars.githubusercontent.com/Sneha-Mittal88293",
       "github": "Sneha-Mittal88293",
       "linkedin": "sneha-mittal-334a6b223"
+    },
+    {
+      "name": "Vishal Vishwakarma",
+      "avatarUrl": "https://avatars.githubusercontent.com/Vishal4real",
+      "github": "Vishal4real",
+      "linkedin": "Vishal Vishwakarma"
     }
   ]
 }
